@@ -146,31 +146,31 @@ An interactive role-playing game concept combining game design and AI-powered ex
 
 ---
 
-## `> GITHUB_ANALYTICS`
+## > GITHUB_ANALYTICS
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lohith1976&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&rank_icon=github" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lohith1976&theme=github_dark" width="100%" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohith1976&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=FFFFFF" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lohith1976&theme=github_dark" width="49%" />
 
-<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lohith1976&theme=github_dark" width="49%" />
 
-<img width="70%" src="https://streak-stats.demolab.com?user=lohith1976&theme=tokyonight&hide_border=true&background=050816&ring=00E5FF&fire=FF00E5&currStreakLabel=00E5FF" />
+<br/><br/>
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=lohith1976&theme=tokyonight&hide_border=true" width="70%" />
 
 </div>
 
 ---
 
-## `> CONTRIBUTION_GRAPH`
+## > CONTRIBUTION_GRAPH
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lohith1976&bg_color=050816&color=00E5FF&line=00E5FF&point=FF00E5&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lohith1976&theme=tokyo-night&hide_border=true" width="100%" />
 
 </div>
-
----
 
 ## `> CONNECT_WITH_ME`
 
