@@ -146,52 +146,59 @@ An interactive role-playing game concept combining game design and AI-powered ex
 
 ---
 
-## > GITHUB_ANALYTICS
+
+---
+
+## `> GITHUB_ANALYTICS`
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lohith1976&theme=github_dark" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lohith1976&theme=github_dark" width="100%" alt="Profile Details"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lohith1976&theme=github_dark" width="49%" />
+<br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lohith1976&theme=github_dark" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lohith1976&theme=github_dark" width="49%" alt="GitHub Stats"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lohith1976&theme=github_dark" width="49%" alt="Repository Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=lohith1976&theme=tokyonight&hide_border=true" width="70%" />
+<img src="https://streak-stats.demolab.com?user=lohith1976&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-## > CONTRIBUTION_GRAPH
+## `> CONTRIBUTION_GRAPH`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lohith1976&theme=tokyo-night&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lohith1976&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph"/>
 
 </div>
+
+---
 
 ## `> CONNECT_WITH_ME`
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/lohithkumar196">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:rit.lohith@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://github.com/lohith1976">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-### `BUILDING THE FUTURE, ONE COMMIT AT A TIME.`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:111C44,100:050816&height=120&section=footer" width="100%"/>
+### BUILDING THE FUTURE, ONE COMMIT AT A TIME.
 
 </div>
+
+
