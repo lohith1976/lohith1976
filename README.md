@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:111C44,100:00E5FF&height=220&section=header&text=LOHITH%20KUMAR&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=CODE%20%7C%20CREATE%20%7C%20INNOVATE&descAlignY=58&descSize=16" width="100%" alt="Lohith Kumar Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:111C44,100:00E5FF&height=220&section=header&text=LOHITH%20KUMAR&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=CODE%20%7C%20CREATE%20%7C%20INNOVATE&descAlignY=58&descSize=16" width="100%" alt="Lohith Kumar"/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Computer+Science+Engineering+Student;Full-Stack+Development+Enthusiast;AI%2FML+Application+Developer;UI%2FUX+Designer;Turning+Ideas+Into+Reality" alt="Typing SVG"/>
@@ -56,7 +56,7 @@ I believe in learning by building, experimenting with new technologies, and cont
 
 ### Programming Languages
 
-<p align="left">
+<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
@@ -65,7 +65,7 @@ I believe in learning by building, experimenting with new technologies, and cont
 
 ### Frontend Development
 
-<p align="left">
+<p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -75,7 +75,7 @@ I believe in learning by building, experimenting with new technologies, and cont
 
 ### Backend & AI
 
-<p align="left">
+<p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
@@ -85,7 +85,7 @@ I believe in learning by building, experimenting with new technologies, and cont
 
 ### Databases
 
-<p align="left">
+<p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
@@ -94,7 +94,7 @@ I believe in learning by building, experimenting with new technologies, and cont
 
 ### Design & Creative Tools
 
-<p align="left">
+<p>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>
@@ -104,7 +104,7 @@ I believe in learning by building, experimenting with new technologies, and cont
 
 ### Developer Tools
 
-<p align="left">
+<p>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -158,21 +158,27 @@ An interactive role-playing game concept combining game design and AI-powered ex
 
 ---
 
-## `> GITHUB_ANALYTICS`
+## `> GITHUB_STATISTICS`
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lohith1976&theme=github_dark" width="100%" alt="GitHub Profile Details"/>
+<img src="https://github-readme-stats.vercel.app/api?username=lohith1976&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Statistics"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lohith1976&theme=github_dark" width="49%" alt="GitHub Statistics"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lohith1976&layout=compact&theme=tokyonight&hide_border=true" width="55%" alt="Top Languages"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lohith1976&theme=github_dark" width="49%" alt="Repository Languages"/>
+</div>
 
-<br/><br/>
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=lohith1976&show_icons=true&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Stats"/>
+## `> GITHUB_STREAK`
+
+<div align="center">
+
+<a href="https://github.com/lohith1976">
+<img src="./profile/streak.svg" width="80%" alt="Current Streak, Longest Streak and Total Contributions"/>
+</a>
 
 </div>
 
